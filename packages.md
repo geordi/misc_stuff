@@ -9,3 +9,7 @@ colormake gcc g++ htop linux-headers-amd64 cmake-gui libeigen3-dev libtbb-dev li
 ```
 qtbase5-dev nautilus thunderbird redshift-gtk printer-drivers-all k3b nautilus net-tools wireshark tcpdump exuberant-ctags gnome-terminal qgit
 ```
+
+```
+zsh ack
+```

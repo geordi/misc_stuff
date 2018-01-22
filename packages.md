@@ -11,5 +11,5 @@ qtbase5-dev nautilus thunderbird redshift-gtk printer-drivers-all k3b nautilus n
 ```
 
 ```
-zsh ack
+zsh ack curl
 ```

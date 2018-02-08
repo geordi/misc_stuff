@@ -11,5 +11,9 @@ qtbase5-dev nautilus thunderbird redshift-gtk printer-drivers-all k3b nautilus n
 ```
 
 ```
-zsh ack curl
+zsh ack curl git-lfs gnome-calculator evince fonts-powerline qtscript5-dev qtxmlpatterns5-dev-tools libqt5xmlpatterns5-dev meshlab simple-scan dconf-editor
+```
+
+```
+kalgebra
 ```

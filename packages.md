@@ -1,5 +1,5 @@
 ```
-aptitude sudo tmux libreoffice gedit vim-gtk mc
+aptitude sudo tmux libreoffice gedit vim-gtk mc curl
 ```
 
 ```

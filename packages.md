@@ -15,5 +15,5 @@ zsh ack curl git-lfs gnome-calculator evince fonts-powerline qtscript5-dev qtxml
 ```
 
 ```
-kalgebra libappindicator1
+kalgebra libappindicator1 bash-completion
 ```

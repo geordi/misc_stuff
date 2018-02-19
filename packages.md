@@ -1,17 +1,21 @@
 ```
-aptitude sudo tmux libreoffice gedit vim-gtk mc curl
+aptitude sudo tmux libreoffice gedit vim-gtk mc curl htop nautilus thunderbird redshift-gtk 
 ```
 
 ```
-colormake gcc g++ htop linux-headers-amd64 cmake-gui libeigen3-dev libtbb-dev libjpeg-dev libpng-dev libtiff5-dev libavcodec-dev libavdevice-dev libavformat-dev libavutil-dev ffmpeg libvtk6-dev python3-dev libfreetype6-dev libopenblas-dev git qgit
+git qgit git-lfs colormake gcc g++ linux-headers-amd64 cmake-gui libeigen3-dev libtbb-dev libjpeg-dev libpng-dev libtiff5-dev libavcodec-dev libavdevice-dev libavformat-dev libavutil-dev ffmpeg libvtk6-dev python3-dev libfreetype6-dev libopenblas-dev
 ```
 
 ```
-qtbase5-dev nautilus thunderbird redshift-gtk printer-driver-all k3b nautilus net-tools wireshark tcpdump exuberant-ctags gnome-terminal
+qtbase5-dev qtscript5-dev qtxmlpatterns5-dev-tools libqt5xmlpatterns5-dev
 ```
 
 ```
-zsh ack curl git-lfs gnome-calculator evince fonts-powerline qtscript5-dev qtxmlpatterns5-dev-tools libqt5xmlpatterns5-dev meshlab simple-scan dconf-editor
+printer-driver-all k3b nautilus net-tools wireshark tcpdump exuberant-ctags gnome-terminal
+```
+
+```
+zsh ack gnome-calculator evince fonts-powerline meshlab simple-scan dconf-editor
 ```
 
 ```

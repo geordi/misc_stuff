@@ -19,7 +19,7 @@ zsh ack gnome-calculator evince fonts-powerline meshlab simple-scan dconf-editor
 ```
 
 ```
-kalgebra libappindicator1 bash-completion psi-plus baobab netcat gnucash
+kalgebra libappindicator1 bash-completion psi-plus baobab netcat gnucash fonts-inconsolata
 ```
 
 ```

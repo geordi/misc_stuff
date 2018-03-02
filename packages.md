@@ -23,7 +23,7 @@ kalgebra libappindicator1 bash-completion psi-plus baobab netcat gnucash fonts-i
 ```
 
 ```
-python3-tk meld
+python3-tk meld zeal
 ```
 
 ```

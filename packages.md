@@ -7,7 +7,7 @@ git qgit git-lfs colormake gcc g++ gdb linux-headers-amd64 cmake-gui libeigen3-d
 ```
 
 ```
-qtbase5-dev qtscript5-dev qtxmlpatterns5-dev-tools libqt5xmlpatterns5-dev libqt5svg5-dev libqt5webkit5-dev
+qtbase5-dev qtscript5-dev qtxmlpatterns5-dev-tools libqt5xmlpatterns5-dev libqt5svg5-dev libqt5webkit5-dev libqt5x11extras5-dev
 ```
 
 ```
@@ -27,5 +27,5 @@ python3-tk meld zeal
 ```
 
 ```
-apt-file libarchive-dev libxcb-keysyms1-dev libxcb-util0-dev
+apt-file libarchive-dev libxcb-keysyms1-dev libxcb-util0-dev extra-cmake-modules
 ```

@@ -29,3 +29,7 @@ python3-tk meld zeal
 ```
 apt-file libarchive-dev libxcb-keysyms1-dev libxcb-util0-dev extra-cmake-modules
 ```
+
+```
+inkscape
+```

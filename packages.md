@@ -31,5 +31,5 @@ apt-file libarchive-dev libxcb-keysyms1-dev libxcb-util0-dev extra-cmake-modules
 ```
 
 ```
-inkscape
+inkscape xfwm4-themes
 ```

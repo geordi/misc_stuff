@@ -26,7 +26,7 @@ Then run `cmake-gui` and edit what you want.
 
 ## OpenCV 3.4
 
-### OpenCV 3.4 with CUDA 9.0
+### OpenCV 3.4 with CUDA 9.2 (finally works on Debian 9)
 
 Run (in Python's virtual env if you want python support):
 

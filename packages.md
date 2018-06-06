@@ -35,5 +35,5 @@ inkscape xfwm4-themes dia-gnome graphviz rdesktop minicom
 ```
 
 ```
-capnproto libsqlite3-dev libsdl2-dev libxmlsec1-dev
+capnproto libsqlite3-dev libsdl2-dev libxmlsec1-dev libmsgsl-dev
 ```

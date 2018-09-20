@@ -35,3 +35,7 @@ cmake -DCMAKE_INSTALL_PREFIX=/usr/local -DCMAKE_VERBOSE_MAKEFILE=ON -DCMAKE_C_FL
 ```
 
 Then run `cmake-gui` and edit what you want.
+
+# Other Sources
+
+[https://www.learnopencv.com/install-opencv-4-on-ubuntu-18-04/](https://www.learnopencv.com/install-opencv-4-on-ubuntu-18-04/)

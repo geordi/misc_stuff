@@ -31,7 +31,7 @@ apt-file libarchive-dev libxcb-keysyms1-dev libxcb-util0-dev extra-cmake-modules
 ```
 
 ```
-inkscape xfwm4-themes dia-gnome graphviz rdesktop minicom
+inkscape xfwm4-themes dia-gnome graphviz rdesktop minicom iptraf
 ```
 
 ```

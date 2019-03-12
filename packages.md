@@ -37,3 +37,7 @@ inkscape xfwm4-themes dia-gnome graphviz rdesktop minicom iptraf
 ```
 capnproto libsqlite3-dev libsdl2-dev libxmlsec1-dev libmsgsl-dev libudev-dev
 ```
+
+```
+systemd-coredump
+```

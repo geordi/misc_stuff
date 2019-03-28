@@ -39,5 +39,5 @@ capnproto libsqlite3-dev libsdl2-dev libxmlsec1-dev libmsgsl-dev libudev-dev
 ```
 
 ```
-systemd-coredump
+systemd-coredump linux-perf
 ```

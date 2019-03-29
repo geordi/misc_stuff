@@ -15,7 +15,7 @@ printer-driver-all k3b nautilus net-tools wireshark tcpdump exuberant-ctags gnom
 ```
 
 ```
-zsh ack gnome-calculator evince fonts-powerline meshlab simple-scan dconf-editor
+zsh ack gnome-calculator evince fonts-powerline meshlab simple-scan dconf-editor rocs
 ```
 
 ```

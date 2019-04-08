@@ -41,3 +41,9 @@ capnproto libsqlite3-dev libsdl2-dev libxmlsec1-dev libmsgsl-dev libudev-dev
 ```
 systemd-coredump linux-perf
 ```
+
+# Not n repos
+
+```
+netron openscad-nightly
+```

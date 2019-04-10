@@ -43,11 +43,11 @@ systemd-coredump linux-perf
 ```
 
 ```
-vlc xserver-xorg-input-synaptics
+vlc xserver-xorg-input-synaptics xfwm4-themes
 ```
 
 # Not in repos
 
 ```
-netron openscad-nightly code
+netron openscad-nightly code docker-ce
 ```

@@ -43,7 +43,7 @@ systemd-coredump linux-perf
 ```
 
 ```
-vlc
+vlc xserver-xorg-input-synaptics
 ```
 
 # Not in repos

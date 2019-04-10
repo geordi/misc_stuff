@@ -1,5 +1,5 @@
 ```
-aptitude sudo tmux libreoffice gedit vim-gtk emacs mc curl htop nautilus thunderbird redshift-gtk 
+aptitude sudo tmux libreoffice gedit vim-gtk emacs mc curl htop nautilus thunderbird redshift-gtk i3
 ```
 
 ```
@@ -42,8 +42,8 @@ capnproto libsqlite3-dev libsdl2-dev libxmlsec1-dev libmsgsl-dev libudev-dev
 systemd-coredump linux-perf
 ```
 
-# Not n repos
+# Not in repos
 
 ```
-netron openscad-nightly
+netron openscad-nightly code
 ```

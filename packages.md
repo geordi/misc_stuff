@@ -47,7 +47,7 @@ python3-tk python3-venv python3-dev
 ```
 
 ```
-vlc xserver-xorg-input-synaptics xfwm4-themes r-base neovim ncdu librecad
+vlc xserver-xorg-input-synaptics xfwm4-themes r-base neovim ncdu librecad vpnc
 ```
 
 # Not in repos

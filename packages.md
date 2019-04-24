@@ -54,6 +54,10 @@ vlc xserver-xorg-input-synaptics xfwm4-themes r-base neovim ncdu librecad vpnc
 libprotobuf-dev libprotoc-dev libgoogle-glog-dev
 ```
 
+```
+libboost-system-dev libboost-thread-dev libboost-filesystem-dev
+```
+
 # Not in repos
 
 ```

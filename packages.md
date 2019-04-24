@@ -51,7 +51,7 @@ vlc xserver-xorg-input-synaptics xfwm4-themes r-base neovim ncdu librecad vpnc
 ```
 
 ```
-libprotobuf-dev libprotoc-dev
+libprotobuf-dev libprotoc-dev libgoogle-glog-dev
 ```
 
 # Not in repos

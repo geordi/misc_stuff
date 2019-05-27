@@ -3,7 +3,7 @@ aptitude sudo tmux libreoffice gedit vim-gtk emacs mc curl htop nautilus thunder
 ```
 
 ```
-git qgit git-lfs gitk colormake gcc g++ gdb linux-headers-amd64 cmake-gui libeigen3-dev libtbb-dev libjpeg-dev libpng-dev libtiff5-dev libavcodec-dev libavdevice-dev libavformat-dev libavutil-dev ffmpeg libvtk6-dev libfreetype6-dev
+git qgit gitk colormake gcc g++ gdb linux-headers-amd64 cmake-gui libeigen3-dev libtbb-dev libjpeg-dev libpng-dev libtiff5-dev libavcodec-dev libavdevice-dev libavformat-dev libavutil-dev ffmpeg libvtk6-dev libfreetype6-dev
 ```
 
 ```
@@ -65,5 +65,5 @@ libboost-system-dev libboost-thread-dev libboost-filesystem-dev
 # Not in repos
 
 ```
-netron openscad-nightly code docker-ce
+netron openscad-nightly code docker-ce git-lfs
 ```

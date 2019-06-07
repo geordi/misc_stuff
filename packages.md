@@ -39,7 +39,7 @@ inkscape xfwm4-themes dia-gnome graphviz rdesktop minicom iptraf wakeonlan
 ```
 
 ```
-capnproto libsqlite3-dev libsdl2-dev libxmlsec1-dev libmsgsl-dev libudev-dev
+capnproto libsqlite3-dev libsdl2-dev libxmlsec1-dev libmsgsl-dev libudev-dev gdal-bin
 ```
 
 ```

@@ -62,6 +62,10 @@ libprotobuf-dev libprotoc-dev libgoogle-glog-dev protobuf-compiler
 libboost-system-dev libboost-thread-dev libboost-filesystem-dev
 ```
 
+```
+libedit-dev
+```
+
 # Not in repos
 
 ```

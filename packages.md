@@ -63,7 +63,7 @@ libboost-system-dev libboost-thread-dev libboost-filesystem-dev
 ```
 
 ```
-libedit-dev
+libedit-dev libcunit1-dev
 ```
 
 # Not in repos

@@ -66,6 +66,10 @@ libboost-system-dev libboost-thread-dev libboost-filesystem-dev
 libedit-dev libcunit1-dev
 ```
 
+```
+texlive-full pdf2svg
+```
+
 # Not in repos
 
 ```

@@ -51,7 +51,7 @@ python3-tk python3-venv python3-dev
 ```
 
 ```
-vlc xserver-xorg-input-synaptics r-base neovim ncdu librecad vpnc pandoc
+vlc xserver-xorg-input-synaptics r-base neovim ncdu librecad vpnc pandoc pandoc-citeproc
 ```
 
 ```

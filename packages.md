@@ -63,7 +63,7 @@ libboost-system-dev libboost-thread-dev libboost-filesystem-dev
 ```
 
 ```
-libedit-dev libcunit1-dev
+libedit-dev libcunit1-dev exfat-fuse exfat-utils
 ```
 
 ```

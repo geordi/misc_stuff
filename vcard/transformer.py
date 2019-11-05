@@ -18,7 +18,7 @@ def export_to_vcf(csv_filename, vcf_filename):
         for line in f:
             line = line.strip()
             print(line)
-            _, _, full_name, _, tel_no, *_ = line.split(';')
+            _, _, full_name, tel_no, *_ = line.split(';')
             
             full_name_splitted = full_name.split(' ')
             if len(full_name_splitted) > 1:

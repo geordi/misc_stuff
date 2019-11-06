@@ -5,7 +5,7 @@ VERSION:2.1
 N:{0};{1};;;
 FN:{1} {0}
 TEL;CELL:{2}
-END:VCAR
+END:VCARD
 """
 
 def print_help():

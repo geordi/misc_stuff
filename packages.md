@@ -70,6 +70,11 @@ libedit-dev libcunit1-dev exfat-fuse exfat-utils
 texlive-full pdf2svg
 ```
 
+```
+neofetch
+```
+
+
 # Not in repos
 
 ```

@@ -38,6 +38,16 @@ cmake -DCMAKE_INSTALL_PREFIX=/usr/local -DCMAKE_VERBOSE_MAKEFILE=ON -DCMAKE_C_FL
 
 Then run `cmake-gui` and edit what you want.
 
+## OpenCV 4.2
+
+### OpenCV 4.2 with CUDA
+
+Run (in Python's virtual env if you want python support):
+
+```
+cmake -DCMAKE_INSTALL_PREFIX=/usr/local -DCMAKE_VERBOSE_MAKEFILE=ON -DCMAKE_C_FLAGS_RELEASE="-g -O2 -fstack-protector --param=ssp-buffer-size=4 -Wformat -Werror=format-security" -DCMAKE_CXX_FLAGS_RELEASE="-g -O2 -fstack-protector --param=ssp-buffer-size=4 -Wformat -Werror=format-security" -DCMAKE_SHARED_LINKER_FLAGS_RELEASE="-Wl,-z,relro -Wl,-z,now" -DCMAKE_EXE_LINKER_FLAGS_RELEASE="-Wl,-z,relro -Wl,-z,now" -DCMAKE_BUILD_TYPE=Release -DBUILD_EXAMPLES=ON -DINSTALL_C_EXAMPLES=ON -DINSTALL_PYTHON_EXAMPLES=ON -DBUILD_NEW_PYTHON_SUPPORT=ON -DWITH_FFMPEG=ON -DWITH_GSTREAMER=OFF -DWITH_GTK=OFF -DWITH_OPENGL=ON -DWITH_JASPER=ON -DWITH_JPEG=ON -DWITH_PNG=ON -DWITH_TIFF=ON -DWITH_OPENEXR=ON -DWITH_PVAPI=ON -DWITH_UNICAP=OFF -DWITH_EIGEN=ON -DWITH_XINE=OFF -DBUILD_TESTS=ON -DCMAKE_SKIP_RPATH=ON -DWITH_CUDA=ON CPU_BASELINE=SSE3 -DWITH_TBB=ON -DWITH_1394=OFF -DWITH_V4L=ON -DPYTHON_LIBRARIES=ON -DWITH_VTK=ON -DWITH_QT=ON -DCUDA_GENERATION=Auto -DOPENCV_EXTRA_MODULES_PATH=<PATH_TO_CONTRIB>/modules -DCUDA_NVCC_FLAGS="--expt-relaxed-constexpr" -DENABLE_PRECOMPILED_HEADERS=OFF OPENCV_GENERATE_PKGCONFIG=ON ..
+```
+
 ## Other Sources
 
 [https://www.learnopencv.com/install-opencv-4-on-ubuntu-18-04/](https://www.learnopencv.com/install-opencv-4-on-ubuntu-18-04/)

@@ -15,7 +15,7 @@ qtbase5-dev qtscript5-dev qtxmlpatterns5-dev-tools libqt5xmlpatterns5-dev libqt5
 ```
 
 ```
-printer-driver-all k3b net-tools wireshark tcpdump libpcap-dev exuberant-ctags gnome-terminal
+printer-driver-all k3b net-tools wireshark tcpdump tcpreplay libpcap-dev exuberant-ctags gnome-terminal
 ```
 
 ```

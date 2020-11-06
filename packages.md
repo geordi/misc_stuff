@@ -27,7 +27,7 @@ kalgebra libappindicator1 bash-completion psi-plus baobab netcat gnucash fonts-i
 ```
 
 ```
-meld zeal gnuplot p7zip-full ack
+meld zeal gnuplot p7zip-full ack sqlite3
 ```
 
 ```

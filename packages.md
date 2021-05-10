@@ -71,7 +71,7 @@ texlive-full pdf2svg
 ```
 
 ```
-neofetch rlwrap gpsd gqrx
+neofetch rlwrap gpsd gqrx nload
 ```
 
 

@@ -43,7 +43,7 @@ capnproto libsqlite3-dev libsdl2-dev libxmlsec1-dev libmsgsl-dev libudev-dev gda
 ```
 
 ```
-systemd-coredump linux-perf
+systemd-coredump linux-perf systemtap-sdt-dev
 ```
 
 ```

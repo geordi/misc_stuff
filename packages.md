@@ -1,5 +1,5 @@
 ```
-aptitude sudo tmux libreoffice gedit vim-gtk emacs mc curl htop nautilus thunderbird redshift-gtk i3
+aptitude sudo tmux libreoffice gedit emacs mc curl htop nautilus thunderbird redshift-gtk i3
 ```
 
 ```

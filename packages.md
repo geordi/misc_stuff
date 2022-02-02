@@ -3,7 +3,7 @@ aptitude sudo tmux libreoffice gedit emacs mc curl htop nautilus thunderbird red
 ```
 
 ```
-git qgit gitk colormake gcc g++ gdb linux-headers-amd64 cmake-gui libeigen3-dev libtbb-dev libjpeg-dev libpng-dev libtiff5-dev libavcodec-dev libavdevice-dev libavformat-dev libavutil-dev ffmpeg libvtk6-dev libfreetype6-dev
+git qgit gitk colormake gcc g++ gdb linux-headers-amd64 cmake-qt-gui libeigen3-dev libtbb-dev libjpeg-dev libpng-dev libtiff5-dev libavcodec-dev libavdevice-dev libavformat-dev libavutil-dev ffmpeg libvtk6-dev libfreetype6-dev
 ```
 
 ```
@@ -27,7 +27,7 @@ kalgebra libappindicator1 bash-completion psi-plus baobab netcat gnucash fonts-i
 ```
 
 ```
-meld zeal gnuplot p7zip-full ack sqlite3
+meld zeal gnuplot p7zip-full sqlite3
 ```
 
 ```
@@ -35,7 +35,7 @@ apt-file libarchive-dev libxcb-keysyms1-dev libxcb-util0-dev extra-cmake-modules
 ```
 
 ```
-inkscape xfwm4-themes dia-gnome graphviz rdesktop minicom iptraf wakeonlan
+inkscape xfwm4-themes dia graphviz rdesktop minicom iptraf wakeonlan dos2unix
 ```
 
 ```
@@ -51,7 +51,7 @@ python3-tk python3-venv python3-dev
 ```
 
 ```
-vlc xserver-xorg-input-synaptics r-base neovim ncdu librecad vpnc pandoc pandoc-citeproc
+vlc xserver-xorg-input-synaptics r-base ncdu librecad vpnc pandoc pandoc-citeproc
 ```
 
 ```
@@ -71,7 +71,7 @@ texlive-full pdf2svg
 ```
 
 ```
-neofetch rlwrap gpsd gqrx nload can-utils
+neofetch rlwrap gpsd gqrx-srd nload can-utils
 ```
 
 

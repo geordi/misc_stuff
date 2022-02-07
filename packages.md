@@ -35,7 +35,7 @@ apt-file libarchive-dev libxcb-keysyms1-dev libxcb-util0-dev extra-cmake-modules
 ```
 
 ```
-inkscape xfwm4-themes dia graphviz rdesktop minicom iptraf wakeonlan dos2unix
+inkscape xfwm4-themes dia graphviz rdesktop minicom iptraf wakeonlan dos2unix kazam
 ```
 
 ```

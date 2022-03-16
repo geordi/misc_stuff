@@ -80,3 +80,7 @@ neofetch rlwrap gpsd gqrx-srd nload can-utils
 ```
 netron openscad-nightly code docker-ce git-lfs
 ```
+
+# Gnome Stuff
+
+- [Disable Window Switcher Popup](https://github.com/windsorschmidt/disable-workspace-switcher-popup)

@@ -39,7 +39,7 @@ inkscape xfwm4-themes dia graphviz rdesktop minicom iptraf wakeonlan dos2unix ka
 ```
 
 ```
-capnproto libsqlite3-dev libsdl2-dev libxmlsec1-dev libmsgsl-dev libudev-dev gdal-bin
+capnproto libsqlite3-dev libsdl2-dev libxmlsec1-dev libmsgsl-dev libudev-dev gdal-bin ripgrep
 ```
 
 ```

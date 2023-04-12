@@ -86,3 +86,4 @@ netron openscad-nightly code docker-ce git-lfs
 - [Disable Window Switcher Popup](https://github.com/windsorschmidt/disable-workspace-switcher-popup)
 - [gnome-shell-extension-bottompanel](https://github.com/Thoma5/gnome-shell-extension-bottompanel)
 - [System Monitor](https://github.com/paradoxxxzero/gnome-shell-system-monitor-applet)
+- [Sound Input & Output Device Chooser](https://github.com/kgshank/gse-sound-output-device-chooser)

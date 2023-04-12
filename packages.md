@@ -19,7 +19,7 @@ printer-driver-all k3b net-tools wireshark tcpdump tcpreplay libpcap-dev exubera
 ```
 
 ```
-ack gnome-calculator evince fonts-powerline meshlab simple-scan dconf-editor rocs
+ack gnome-calculator gnome-shell-extensions evince fonts-powerline meshlab simple-scan dconf-editor rocs
 ```
 
 ```
